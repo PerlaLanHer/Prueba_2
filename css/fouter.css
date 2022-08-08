@@ -1,0 +1,92 @@
+
+.caj2{
+  display: inline-block;
+  top:0px;
+  text-decoration: none;
+
+  background-color:transparent;
+display:inline-block;
+color:#fff;
+
+
+}
+
+
+
+
+.uparrowdiv{
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+margin:3px;
+width:100px;
+top:0;
+border-bottom: 3px solid #f5f5f5;
+}
+.uparrowdiv h1{
+text-decoration: none;
+font-size: 14px;  
+text-align: center; 
+overflow: hidden; 
+color:#f5f5f5;
+top:0;
+border-bottom: 1px solid #f5f5f5;
+text-transform: uppercase; 
+}
+.uparrowdiv h2{
+font-size: 12px;  
+text-align: center; 
+overflow: hidden; 
+color:#fff;
+top:0;
+}
+
+.imgRedonda {
+    width:120px;
+    height:120px;
+    border-radius:150px;
+    border:2px solid #a1cd5c;
+	
+}
+
+
+
+
+
+.uparrowdiv, .downarrowdiv, .leftarrowdiv, .rightarrowdiv{
+width:150px;
+min-height:40px; /*min height of DIV should be set to at least 2x the width of the arrow*/
+background:#a1cd5c;;
+color:white;
+padding:5px;
+position:relative;
+word-wrap:break-word;
+-moz-border-radius:5px; /*add some nice CSS3 round corners*/
+-webkit-border-radius:5px;
+border-radius:5px;
+margin-bottom:2em;
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 1200px) {
+
+}
+
+@media only screen and (max-width: 1000px) {
+
+}
+
+@media only screen and (max-width: 800px) {
+
+}
+
+@media only screen and (max-width: 600px) {
+
+}
+
+@media only screen and (max-width: 400px) {
+
+}
